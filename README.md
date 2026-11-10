@@ -8,3 +8,7 @@ The project implements and compares three classification algorithms: Logistic Re
 The dataset contains patient-related attributes used as input features for classification.
 Number of records: 538, Original columns: 42, Input features used: 40, Target variable: PCOS (Yes/No).
 
+Technologies Used are Python, NumPy, Pandas, and Scikit-learn.
+
+Results show that Logistic Regression has the highest accuracy at 86.42%, followed by KNN and then Gaussian Naive Bayes with 85.19% and 83.95% accuracy, respectively.
+
